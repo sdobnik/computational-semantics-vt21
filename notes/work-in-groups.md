@@ -2,22 +2,22 @@
 
 ## Pre-requisites
 
-1. **Every student**: make sure you have a GitHub account.
+1. **For every student**: make sure you have a GitHub account.
 Follow the steps below if you don't have one:
-- If you don't have `git`, install it on your system (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-- Sign up for GitHub (https://github.com/).
-- Go to https://education.github.com/ and sign up for the Student Developer Pack to get unlimited private repositories and the ability to add several collaborators. You are a "student" and you want an "individual account".
-- Setup your terminal acceess with ssh-key from your local computer to your Github account. (https://github.com/settings/keys)
+* If you don't have `git`, install it on your system (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+* Sign up for GitHub (https://github.com/).
+* Go to https://education.github.com/ and sign up for the Student Developer Pack to get unlimited private repositories and the ability to add several collaborators. You are a "student" and you want an "individual account".
+* Setup your terminal acceess with ssh-key from your local computer to your Github account. (https://github.com/settings/keys)
 
-2. **Every student**: make sure you have installed Jupyter.
+2. **For every student**: make sure you have installed Jupyter.
 You can use either Jupyter Lab or Jupyter Notebook - the former is a new version of the latter, using either of them is not really affecting the submission infrastructure.
 To install Jupyter, please have a look [here](https://jupyter.org/install).
 
-3. **Every group**: Fork this repository and create personal folders.
+3. **For every group**: Fork this repository and create personal folders.
 Read detailed instruction on how to fork repository [here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
-There should be one fork of the original repository per group.
+*There should be one fork of the original repository per group.*
 Within your groups, assign a person who is going to fork this repository.
-The resulting fork can be locally cloned by any of the group members and from this point, every change/commit from the group members should be done to this fork.
+The resulting fork can be locally cloned by any of the group members and, from this point, every change/commit from the group members should be done to this fork.
 
 Create personal folders of group members within the forked repository.
 Within the root, it should look as follows:
@@ -141,7 +141,7 @@ We have:
 * individual work as .ipynb file (./{group-name}/assignment-01/adam/logic-and-lambda-calculus.ipynb, etc.)
 * group solution as .ipynb file (./01-logic-and-lambda-calculus/assignment/logic-and-lambda-calculus.ipynb)
 
-Each **group** needs to propose solutions in the group solution .ipynb file.
+Each **group** needs to propose solutions in the group solution .ipynb file, which is also the file with the actual task.
 **Individual** work .ipynb files are for you to discuss between group members and for us to observe your progress.
 
 For final submission, you need to make a pull request with the changes in your group solution file :./01-logic-and-lambda-calculus/assignment/logic-and-lambda-calculus.ipynb.
