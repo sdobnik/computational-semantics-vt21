@@ -145,7 +145,8 @@ Each **group** needs to propose solutions in the group solution .ipynb file, whi
 **Individual** work .ipynb files are for you to discuss between group members and for us to observe your progress.
 
 For final submission, you need to make a pull request with the changes in your group solution file :./01-logic-and-lambda-calculus/assignment/logic-and-lambda-calculus.ipynb.
-Do not put your individual work into the pull requests, only your group work!
+Through pull requests we will be able to see full history of your commits and changes, both for the group file and for your individual work.
+This will give us more information about your progress and better insights into what we can help with.
 
 Read detailed instructions on how to do a pull requests [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
