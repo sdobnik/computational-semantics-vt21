@@ -1,6 +1,6 @@
-## Group Work Guidelines
+# Group Work Guidelines
 
-# Pre-requisites
+## Pre-requisites
 
 1. **Every student**: make sure you have a GitHub account.
 Follow the steps below if you don't have one:
@@ -38,7 +38,7 @@ Your personal folders are used as placeholders for you individual work on the as
 In other words, you can put there your own proposals (and work in progress) on how you solved the assignment / how you think it should be solved.
 Then, these solutions can be used when discussing assignment within the group.
 
-# Changing a group
+## Changing a group
 
 Since you are free to change your group or create a brand new group with other students, there is a couple of things for you to take into account.
 If you are changing the group, simply create folder with your name in the new group.
@@ -110,7 +110,7 @@ To do this, they create a new fork of the original repository and structure thei
 
 Note that the assignment id start with 03 since all of the students have already worked on previous assignments in their older groups.
 
-# Submit Assignments
+## Submit Assignments
 
 Once you are done with all the steps above, the repository should look something like this:
 
@@ -166,7 +166,7 @@ For example, ```assignment-03-groupA```
 Plese write names of the group members in the comment field as well.
 
 
-# How do we expect our students to work in the group?
+## How do we expect our students to work in the group?
 
 The general idea is that members in each group would communicate as follows:
 
