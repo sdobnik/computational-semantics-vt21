@@ -64,7 +64,7 @@ Then, student1 decides to leave this group and join Group B for the 3rd assignme
 The fork of Group B then would look as follows:
 
 ```bash
-├── {A}
+├── {B}
 │   ├── assignment-01
 │   │   ├── student4
 │   │   ├── student5
@@ -164,7 +164,7 @@ git pull upstream main
 When making a pull request write the following title:
 ```assignment-{assignment-number}-{group-name}```
 For example, ```assignment-03-groupA```
-Plese write names of the group members in the comment field as well.
+Please write names of the group members in the comment field as well.
 
 
 ## How do we expect our students to work in the group?
