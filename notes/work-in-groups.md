@@ -14,7 +14,7 @@ You can use either Jupyter Lab or Jupyter Notebook - the former is a new version
 To install Jupyter, please have a look [here](https://jupyter.org/install).
 
 3. **Every group**: Fork this repository and create personal folders.
-Read detailed instruction on how to fork repository [here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+Read detailed instruction on how to fork repository [here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 There should be one fork of the original repository per group.
 Within your groups, assign a person who is going to fork this repository.
 The resulting fork can be locally cloned by any of the group members and from this point, every change/commit from the group members should be done to this fork.
