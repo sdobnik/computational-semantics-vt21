@@ -15,7 +15,7 @@ If you have multiple files to upload (for example, you changed something un `uti
 In the end, you are free to choose *how* you are going to work on the assignment file as a group.
 Just make sure that (i) course organisers could access your work, (ii) you can produce a final .ipynb file that you can submit to the Canvas course webpage.
 
-**Important:** also, please upload your group's .ipynb file by the morning of the day when we have a class on this assignment. It would be nice for TAs (Adam, Nikolai) to look at your work-in-progress before the actual class on this assignment.
+**Important:** also, please upload your group's .ipynb file by the morning of the day when we have a class on this assignment. It would be nice for TAs (Adam, Nikolai) to look at your work-in-progress before the actual class on this assignment. To do this, simply upload your current state of the submission to the Canvas assignment page. You have an unlimited number of submissions before the actual submission deadline. It means that you could re-upload a new version after the class on the assignment with updated results.
 
 For any questions, please contact us through Discord or e-mail.
 
