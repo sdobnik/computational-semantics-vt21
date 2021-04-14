@@ -199,3 +199,13 @@ The general idea is that members in each group would communicate as follows:
 - There might be more than one solution for each question.
 - After everyone found and ran an answer for each question, start working on the final group submission in a separate notebook, e.g. ./01-logic-and-lambda-calculus/assignment/logic-and-lambda-calculus.ipynb for the first assignment
 - Make a pull request and add all necessary information.
+
+## Discussions in the class
+
+1.5 hours for a class might sound like a long time, but it normally goes very quickly, especially if we would like every group to be heard. Therefore, to optimise a discussion, 
+
+  -  Before the class, and in addition to submitting the assignment, each group should post their questions and in particular non-working solutions that they would like to discuss on Canvas Discussions. There will be a discussion thread for each assignment (linked in Modules).
+
+  - Sharing non-working solutions is not only allowed but also encouraged!
+
+  - We will read your posts before the class (and you should read them too) and try to structure them to topics around which we can focus our discussion later, starting from the group who made that comment.
